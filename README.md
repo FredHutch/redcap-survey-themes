@@ -11,7 +11,7 @@ This simple project is meant to make it easy to get an idea of what the various 
 ![alt text](https://github.com/FredHutch/redcap-survey-themes/blob/master/cappucino.PNG "Cappucino")
 
 ## Colorful Pastel
-![alt text]('https://github.com/FredHutch/redcap-survey-themes/blob/master/colorfulpastel.PNG' "Colorful Pastel")
+![alt text](https://github.com/FredHutch/redcap-survey-themes/blob/master/colorfulpastel.PNG "Colorful Pastel")
 
 ## Flat White
 ![alt text](https://github.com/FredHutch/redcap-survey-themes/blob/master/flatwhite.PNG "Flat White")
