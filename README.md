@@ -33,3 +33,6 @@ This simple project is meant to make it easy to get an idea of what the various 
 
 ## Sunny Day
 ![alt text](https://github.com/FredHutch/redcap-survey-themes/blob/master/sunnyday.PNG "Sunny Day")
+
+## Custom theme Options
+![alt text](https://github.com/FredHutch/redcap-survey-themes/blob/master/customthemeoptions.PNG "Custom Theme Options")
